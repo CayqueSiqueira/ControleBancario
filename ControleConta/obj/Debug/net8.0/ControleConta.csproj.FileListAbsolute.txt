@@ -1,0 +1,14 @@
+C:\projetos\ControleBancario\ControleConta\bin\Debug\net8.0\ControleConta.exe
+C:\projetos\ControleBancario\ControleConta\bin\Debug\net8.0\ControleConta.deps.json
+C:\projetos\ControleBancario\ControleConta\bin\Debug\net8.0\ControleConta.runtimeconfig.json
+C:\projetos\ControleBancario\ControleConta\bin\Debug\net8.0\ControleConta.dll
+C:\projetos\ControleBancario\ControleConta\bin\Debug\net8.0\ControleConta.pdb
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.AssemblyInfoInputs.cache
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.AssemblyInfo.cs
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.csproj.CoreCompileInputs.cache
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.dll
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\refint\ControleConta.dll
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.pdb
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ControleConta.genruntimeconfig.cache
+C:\projetos\ControleBancario\ControleConta\obj\Debug\net8.0\ref\ControleConta.dll
