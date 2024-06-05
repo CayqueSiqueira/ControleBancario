@@ -16,7 +16,7 @@ namespace ControleConta.Models
         }
         public override bool Sacar(double valor)
         {
-            if (Saldo - (valor + 0.10) >= 0)
+            if (Saldo + _limite - (valor + 0.10) >= 0)
             {
                 Saldo -= valor + 0.10;
                 return true;
@@ -30,7 +30,7 @@ namespace ControleConta.Models
 
         public bool Transferir(Conta conta, double valor)
         {
-            if (Saldo - valor >= 0)
+            if (Saldo + _limite - valor >= 0)
             {
                 Saldo -= valor;
                 conta.Depositar(valor);
