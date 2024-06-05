@@ -13,10 +13,11 @@ namespace ControleConta.Models
         private double _saldo;
         private Cliente Titular { get; set; }
 
-        public Conta(long numero,  Cliente titular)
+        public Conta(long numero, Cliente titular)
         {
             _numero = numero;
             Titular = titular;
+            _saldo = 10;
         }
 
         public Conta(long numero, double saldo, Cliente titular)
@@ -45,7 +46,7 @@ namespace ControleConta.Models
             }
         }
 
-        public void Depositar(double valor)
+        public virtual void Depositar(double valor)
         {
             if (valor <= 0)
             {
@@ -54,25 +55,27 @@ namespace ControleConta.Models
             if (valor > 0)
             {
                 _saldo += valor;
-                Console.WriteLine($"Deposito realizado com sucesso. Saldo atual {_saldo}");
+                Console.WriteLine($"Deposito realizado com sucesso. Saldo atual {_saldo:C}");
             }
 
         }
 
         public virtual bool Sacar(double valor)
-        {   
-            if(_saldo - (valor + 0.10) >= 0)
+        {
+            if (_saldo - (valor + 0.10) >= 0)
             {
                 _saldo -= valor + 0.10;
+                Console.WriteLine($"Saque realizado com sucesso. Saldo atual {_saldo:C}");
                 return true;
-            }else
+            }
+            else
             {
                 throw new ArgumentException("Valor do saque ultrapassa o saldo");
             }
 
         }
 
-        public void Transferir(Conta conta, double valor)
+        public virtual void Transferir(Conta conta, double valor)
         {
             if (_saldo - valor >= 0)
             {
@@ -80,8 +83,10 @@ namespace ControleConta.Models
                 conta.Depositar(valor);
 
                 Console.WriteLine($"Transferência realizada com sucesso.");
-                Console.WriteLine($"Saldo da conta destino: {conta.Saldo:C}");
+                Console.WriteLine($"Numero conta destino: {conta.Numero}");
+                Console.WriteLine($"Titualr conta destino: {conta.Titular.Nome}");
                 Console.WriteLine($"Saldo da conta atual: {_saldo:C}");
+                Console.WriteLine($"Valor transferido: {valor:C}\n");
             }
             else
             {

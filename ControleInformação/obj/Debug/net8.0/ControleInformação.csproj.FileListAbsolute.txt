@@ -1,0 +1,15 @@
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\bin\Debug\net8.0\ControleInformação.exe
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\bin\Debug\net8.0\ControleInformação.deps.json
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\bin\Debug\net8.0\ControleInformação.runtimeconfig.json
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\bin\Debug\net8.0\ControleInformação.dll
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\bin\Debug\net8.0\ControleInformação.pdb
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.AssemblyInfoInputs.cache
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.AssemblyInfo.cs
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.csproj.CoreCompileInputs.cache
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.sourcelink.json
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.dll
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\refint\ControleInformação.dll
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.pdb
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ControleInformação.genruntimeconfig.cache
+C:\Users\202210966\Desktop\ControleBancario\ControleInformação\obj\Debug\net8.0\ref\ControleInformação.dll

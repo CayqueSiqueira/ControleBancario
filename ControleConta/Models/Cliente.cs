@@ -45,8 +45,8 @@ namespace ControleConta.Models
 
         public string Nome
         {
-            get => _nome; 
-            set => _nome = value; 
+            get => _nome;
+            set => _nome = value;
         }
 
         public string CPF
@@ -72,6 +72,6 @@ namespace ControleConta.Models
             get { return DateTime.Now.Year - AnoNascimento; }
         }
 
-        
+
     }
 }

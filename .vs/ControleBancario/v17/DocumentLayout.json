@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cayqu\\Desktop\\ControleBancario\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\202210966\\Desktop\\ControleBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\models\\credor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\models\\credor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\models\\controlefinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\models\\controlefinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\models\\contafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\models\\contafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\models\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\models\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleinforma\u00E7\u00E3o\\models\\contajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E4428F-FB27-4C49-BD47-7B6FF84D6F48}|ControleInforma\u00E7\u00E3o\\ControleInforma\u00E7\u00E3o.csproj|solutionrelative:controleinforma\u00E7\u00E3o\\models\\contajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620766-B0DB-43CE-BB9E-D4A0964ED03D}|ControleConta\\ControleConta.csproj|c:\\users\\202210966\\desktop\\controlebancario\\controleconta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620766-B0DB-43CE-BB9E-D4A0964ED03D}|ControleConta\\ControleConta.csproj|solutionrelative:controleconta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Credor.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\Credor.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\models\\Credor.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\Credor.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\models\\Credor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:20:15.142Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\Cliente.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\models\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:43:30.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\ContaJuridica.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\models\\ContaJuridica.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\ContaJuridica.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\models\\ContaJuridica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:45:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\ContaFisica.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\models\\ContaFisica.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\ContaFisica.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\models\\ContaFisica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:45:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\Conta.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\models\\Conta.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\Conta.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\models\\Conta.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:41:15.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControleFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\ControleFinanceiro.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\models\\ControleFinanceiro.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\models\\ControleFinanceiro.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\models\\ControleFinanceiro.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:33:18.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "ControleInforma\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleInforma\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "ControleInforma\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:31:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleConta\\Program.cs",
+              "RelativeDocumentMoniker": "ControleConta\\Program.cs",
+              "ToolTip": "C:\\Users\\202210966\\Desktop\\ControleBancario\\ControleConta\\Program.cs",
+              "RelativeToolTip": "ControleConta\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:25:08.955Z",
+              "EditorCaption": ""
             }
           ]
         }
